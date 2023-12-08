@@ -1,2 +1,2 @@
-# IDN610M-2023
-IÐN610M vor 2023
+# IDN610M Viðskiptagreind / Business Intelligence  
+
